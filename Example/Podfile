@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZPBannerKits_Example' do
+  pod 'ZPBannerKits', :path => '../'
+
+  target 'ZPBannerKits_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
