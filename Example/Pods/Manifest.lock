@@ -1,0 +1,16 @@
+PODS:
+  - ZPBannerKits (0.1.0)
+
+DEPENDENCIES:
+  - ZPBannerKits (from `../`)
+
+EXTERNAL SOURCES:
+  ZPBannerKits:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZPBannerKits: 3506c077284412f69bb538e0af0e0d0dced91078
+
+PODFILE CHECKSUM: 422cf54d4ffdbd73a63865b323cf4384437f8006
+
+COCOAPODS: 1.4.0

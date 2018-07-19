@@ -1,0 +1,22 @@
+{
+  "name": "ZPBannerKits",
+  "version": "0.1.0",
+  "summary": "A short description of ZPBannerKits.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/11111/ZPBannerKits",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "11111": "1193279613@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/11111/ZPBannerKits.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZPBannerKits/Classes/**/*"
+}

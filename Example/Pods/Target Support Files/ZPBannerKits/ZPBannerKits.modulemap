@@ -1,0 +1,6 @@
+framework module ZPBannerKits {
+  umbrella header "ZPBannerKits-umbrella.h"
+
+  export *
+  module * { export * }
+}
